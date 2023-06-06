@@ -36,6 +36,9 @@ p{
   justify-content: center;
   flex-direction: row;
 }
+.greeting {
+  text-align: center;
+}
 img{
     width: 500px;
     height: 200px;
